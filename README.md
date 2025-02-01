@@ -14,6 +14,7 @@
 - [Golang for Jobseekers](https://bpbonline.com/products/golang-for-jobseekers)
 - [Pro Go](https://link.springer.com/book/10.1007/978-1-4842-7355-5)
 - [Go Cookbook](https://www.oreilly.com/library/view/go-cookbook/9781098122102/)
+- [Go Recipes for Developers](https://www.packtpub.com/en-us/product/go-recipes-for-developers-9781835464786)
 - [Go Programming Cookbook](https://www.amazon.sg/Go-Programming-Cookbook-microservices-networking/dp/8119177371)
 - [Hands-on Go Programming](https://bpbonline.com/products/hands-on-go-programming)
 - [Learning Go Programming](https://bpbonline.com/products/learning-go-programming)
