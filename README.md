@@ -1,0 +1,15 @@
+# Go 
+- [Go Programming Language](https://www.gopl.io/) 
+  - Chapter 1
+- [Go in Action, Second Edition](https://www.manning.com/books/go-in-action-second-edition)
+- [Learning Go, 2nd Edition](https://www.oreilly.com/library/view/learning-go-2nd/9781098139285/)
+- [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
+- [Go by Example](https://www.manning.com/books/go-by-example)
+- [Go in Practice, Second Edition](https://www.manning.com/books/go-in-practice-second-edition)
+- [Effective Go Recipes](https://pragprog.com/titles/mtgo/effective-go-recipes/)
+- [Go Brain Teasers](https://pragprog.com/titles/d-gobrain/go-brain-teasers/)
+- [Head First Go](https://headfirstgo.com/)
+- [Go Programming - From Beginner to Professional](https://www.oreilly.com/library/view/go-programming/9781803243054/)
+- [Mastering Go - Fourth Edition](https://www.oreilly.com/library/view/mastering-go/9781805127147/)
+- [Golang for Jobseekers](https://bpbonline.com/products/golang-for-jobseekers)
+- [Pro Go](https://link.springer.com/book/10.1007/978-1-4842-7355-5)
