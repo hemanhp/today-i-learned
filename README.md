@@ -1,6 +1,9 @@
-# Go 
+## Go - Core Language
 - [Go Programming Language](https://www.gopl.io/) 
-  - Chapter 1
+  - [Chapter 1: Tutorial](Go/Go-Programming-Language/Chapter-01/README.md) (7 Feb 2025)
+  - [Chapter 2: Program Structure](Go/Go-Programming-Language/Chapter-02/README.md)
+  - [Chapter 3: Basic Data Types](Go/Go-Programming-Language/Chapter-03/README.md)
+  - [Chapter 4: Composite Types](Go/Go-Programming-Language/Chapter-04/README.md)
 - [Go in Action, Second Edition](https://www.manning.com/books/go-in-action-second-edition)
 - [Learning Go, 2nd Edition](https://www.oreilly.com/library/view/learning-go-2nd/9781098139285/)
 - [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
@@ -19,3 +22,5 @@
 - [Hands-on Go Programming](https://bpbonline.com/products/hands-on-go-programming)
 - [Learning Go Programming](https://bpbonline.com/products/learning-go-programming)
 - [Go Lang in Depth](https://bpbonline.com/products/go-lang-in-depth)
+
+## Go - Concurrency and Cloud
